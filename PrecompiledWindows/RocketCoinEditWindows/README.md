@@ -6,6 +6,7 @@ My github! https://github.com/SuiPissDrinker
 
 READ ME
 in the config file:
+-----
 line 1, "t/f" is for configuration status (It won't work if it's set to "F/f", set it to "T/t")
 -----
 line 2, is the file path to look for your risk of rain 2 config folder (where the lunar coin value is located)
