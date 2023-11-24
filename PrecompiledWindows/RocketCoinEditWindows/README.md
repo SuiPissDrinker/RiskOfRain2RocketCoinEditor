@@ -5,6 +5,7 @@ My github! https://github.com/SuiPissDrinker
 
 
 READ ME
+-----
 in the config file:
 -----
 line 1, "t/f" is for configuration status (It won't work if it's set to "F/f", set it to "T/t")
