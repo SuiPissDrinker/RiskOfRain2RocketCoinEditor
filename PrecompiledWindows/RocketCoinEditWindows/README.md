@@ -2,15 +2,10 @@ This was compliled on win10 using Clang, so I'm not sure how it fare on your sys
 if that still doesn't work, download the source code at my github and compile it yourself.
 My github! https://github.com/SuiPissDrinker
 
-f
-----
-/please/config/me/check/the/readme/line2.poopieshitfart
-----
-999999999
 
 
 READ ME
-
+in the config file:
 line 1, "t/f" is for configuration status (It won't work if it's set to "F/f", set it to "T/t")
 -----
 line 2, is the file path to look for your risk of rain 2 config folder (where the lunar coin value is located)
